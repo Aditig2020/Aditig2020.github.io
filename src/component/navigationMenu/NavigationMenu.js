@@ -23,7 +23,7 @@ const NavigationMenu = () => {
           </a>
         </li>
         <li>
-          <a href="#howItWorks">How It Works</a>
+          <a href="#howItWorks">Steps To Be Used</a>
         </li>
         <li>
           <a href="#visualizer">Visualizer</a>

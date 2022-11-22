@@ -16,7 +16,7 @@ import { StepsData } from './StepsData';
 const HowItWorks = () => {
   return (
     <div id="howItWorks" className="how-it-works">
-      <HowItWorksHeader sectionHeader={'How it Works'} translateX={'translateX(28px)'} />
+      <HowItWorksHeader sectionHeader={'Steps To Be Used'} translateX={'translateX(28px)'} />
       <div className="how-it-works-container">
         <img className="how-it-works-picture" src={HowItWorksImage} alt="" />
         <div className="steps">
